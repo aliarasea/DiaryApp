@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DiaryApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_diary_detail">DiaryDetail</string>
+    <string name="lbl_date">Tarih:</string>
+    <string name="selectdate">DiaryApp</string>
+    <string name="lbl_diary_title">Başlık:</string>
+    <string name="lbl_diary_content">İçerik:</string>
+    <string name="btn_save_diary">Kaydet</string>
+    <string name="btn_update_diary">Güncelle</string>
+    <string name="btn_delete_diary">Sil</string>
+    <string name="btn_add_foto">Foto</string>
+    <string name="btn_add_audio_record">Ses</string>
+    <string name="title_activity_diary_update">DiaryUpdate</string>
+    <string name="title_activity_diary_insert">DiaryInsert</string>
+    <string name="ekle">Ekle</string>
+    <string name="listele">Listele</string>
+    <string name="lbl_location">Konum</string>
+    <string name="btn_take_a_picture_insert">Fotograf Çek</string>
+    <string name="btn_image_from_phone_insert">Fotograf Seç</string>
+    <string name="title_activity_diary_select">DiarySelect</string>
+    <string name="record">Ses Kaydet</string>
+    <string name="stop">Durdur</string>
+    <string name="recording">Kaydediliyor...</string>
+    <string name="btn_audio_record_listen_insert">Ses Dinle</string>
+    <string name="btn_audio_record_delete_insert">Ses Sil</string>
+
+</resources>
